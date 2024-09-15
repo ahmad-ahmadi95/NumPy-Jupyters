@@ -1,4 +1,4 @@
-# NumPy Main Functions & Methods
+# 🔰 NumPy Main Functions & Methods
 
 🔸 In this repository I will upload jupyter files about **NumPy** library and its main functions.
 🔸 During this jupyter we'll learn about: 
